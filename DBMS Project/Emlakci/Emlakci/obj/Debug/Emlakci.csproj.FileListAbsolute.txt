@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Emlakci\Emlakci\bin\Debug\Emlakci.exe.config
+C:\Users\Asus\source\repos\Emlakci\Emlakci\bin\Debug\Emlakci.exe
+C:\Users\Asus\source\repos\Emlakci\Emlakci\bin\Debug\Emlakci.pdb
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form1.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Properties.Resources.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.exe
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.pdb
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form2.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form3.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form4.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form5.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form6.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form7.resources
+C:\Users\Asus\source\repos\Emlakci\Emlakci\obj\Debug\Emlakci.Form8.resources
